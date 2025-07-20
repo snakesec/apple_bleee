@@ -49,4 +49,3 @@ else
 fi
 
 cp -Rf andraxbin/* /opt/ANDRAX/bin
-rm -rf andraxbin

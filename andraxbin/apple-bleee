@@ -15,7 +15,7 @@ echo "1b5b306d2020202020202020202020202020202020202020201b5b33383b323b3133303b31
 echo
 echo -e "		 ${BLD}${RED}APPLE-BLEEE Project${NRM}"
 
-SOURCEENV="/opt/ANDRAX/apple-bleee/python3/bin/activate"
+SOURCEENV="/opt/ANDRAX/apple_bleee/python3/bin/activate"
 SCRIPTPATH="/opt/ANDRAX/apple_bleee/package/"
 
 source ${SOURCEENV}
